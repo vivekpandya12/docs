@@ -30,6 +30,7 @@ Getting a Single Entity by Primary Key
 
 .. php:method:: get($id, $options = [])
 
+
 It is often convenient to load a single entity from the database when editing or
 view entities and their related data. You can do this by using ``get()``::
 
